@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.jubula.client.core.functions">
+      <function
+            class="com.hilotec.jubula.stringfunctions.Strpos3Evaluator"
+            evaluator="local"
+            name="substring">
+         <parameter
+               name="Value"
+               type="string">
+         </parameter>
+         <parameter
+               name="Begin"
+               type="number">
+         </parameter>
+         <parameter
+               name="End"
+               type="number">
+         </parameter>
+      </function>
+      <function
+            class="com.hilotec.jubula.stringfunctions.Strpos2Evaluator"
+            evaluator="local"
+            name="substring2">
+         <parameter
+               name="Value"
+               type="string">
+         </parameter>
+         <parameter
+               name="Begin"
+               type="number">
+         </parameter>
+      </function>
+   </extension>
+
+</plugin>

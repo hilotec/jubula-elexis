@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: com.hilotec.jubula.stringfunctions
+Bundle-SymbolicName: com.hilotec.jubula.stringfunctions;singleton:=true
+Bundle-Version: 0.0.1
+Bundle-Activator: com.hilotec.jubula.stringfunctions.Activator
+Bundle-Vendor: hilotec.com
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.jubula.client.core,
+ org.eclipse.jubula.tools
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
