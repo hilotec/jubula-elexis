@@ -2740,7 +2740,7 @@
                 <propagated>false</propagated>
                 <originalName>8ab6b08d1a4d08f3011a4d09a497002c</originalName>
                 <newName>2431b4a345f24c43a94ba1fba815599c</newName>
-                <type>guidancer.concrete.Tree</type>
+                <type/>
               </overriddenNames>
             </usedTestcase>
           </teststep>
@@ -2860,7 +2860,7 @@
                 <propagated>false</propagated>
                 <originalName>8ab6b08d1a4d08f3011a4d09a497002c</originalName>
                 <newName>2431b4a345f24c43a94ba1fba815599c</newName>
-                <type>guidancer.concrete.Tree</type>
+                <type/>
               </overriddenNames>
             </usedTestcase>
           </teststep>
@@ -2879,7 +2879,7 @@
                 <propagated>false</propagated>
                 <originalName>8ab6b08d1a4d08f3011a4d09a4930022</originalName>
                 <newName>877170f436b847f78790a198761534da</newName>
-                <type>guidancer.abstract.Widget</type>
+                <type/>
               </overriddenNames>
             </usedTestcase>
           </teststep>
@@ -2898,7 +2898,7 @@
                 <propagated>false</propagated>
                 <originalName>8ab6b08d1a4d08f3011a4d09a4930022</originalName>
                 <newName>c6b6b1a763d94ff4a1dd5404686b38c5</newName>
-                <type>guidancer.abstract.Widget</type>
+                <type/>
               </overriddenNames>
             </usedTestcase>
           </teststep>
@@ -2951,7 +2951,7 @@
                 <propagated>false</propagated>
                 <originalName>8ab6b08d1a4d08f3011a4d09a4930022</originalName>
                 <newName>c6b6b1a763d94ff4a1dd5404686b38c5</newName>
-                <type>guidancer.abstract.Widget</type>
+                <type/>
               </overriddenNames>
             </usedTestcase>
           </teststep>
@@ -3160,7 +3160,7 @@
                 <propagated>false</propagated>
                 <originalName>8ab6b08d1a4d08f3011a4d09a4930022</originalName>
                 <newName>ff59d81c5013430585f4b04e74fd94b1</newName>
-                <type>guidancer.abstract.Widget</type>
+                <type/>
               </overriddenNames>
             </usedTestcase>
           </teststep>
@@ -3178,7 +3178,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a4930022</originalName>
               <newName>c42b43ed768f4c4f84ab8eb9d3f73159</newName>
-              <type>guidancer.abstract.Widget</type>
+              <type/>
             </overriddenNames>
             <eventType>TestErrorEvent.Action</eventType>
             <reentryProperty>break</reentryProperty>
@@ -3197,7 +3197,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a4930022</originalName>
               <newName>c42b43ed768f4c4f84ab8eb9d3f73159</newName>
-              <type>guidancer.abstract.Widget</type>
+              <type/>
             </overriddenNames>
             <eventType>TestErrorEvent.VerifyFailed</eventType>
             <reentryProperty>break</reentryProperty>
@@ -3312,7 +3312,7 @@
                 <propagated>true</propagated>
                 <originalName>8ab6b08d1a4d08f3011a4d09a4930022</originalName>
                 <newName>b8fde254bb57422ba0303354d47e98b3</newName>
-                <type>guidancer.abstract.Widget</type>
+                <type/>
               </overriddenNames>
             </usedTestcase>
           </teststep>
@@ -3449,7 +3449,7 @@
                 <propagated>false</propagated>
                 <originalName>8ab6b08d1a4d08f3011a4d09a4930022</originalName>
                 <newName>877170f436b847f78790a198761534da</newName>
-                <type>guidancer.abstract.Widget</type>
+                <type/>
               </overriddenNames>
             </usedTestcase>
           </teststep>
@@ -3468,7 +3468,7 @@
                 <propagated>false</propagated>
                 <originalName>8ab6b08d1a4d08f3011a4d09a4930022</originalName>
                 <newName>c6b6b1a763d94ff4a1dd5404686b38c5</newName>
-                <type>guidancer.abstract.Widget</type>
+                <type/>
               </overriddenNames>
             </usedTestcase>
           </teststep>
@@ -3609,7 +3609,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a4930022</originalName>
               <newName>f1d1b7260fa4460ebf4be2f04b94f163</newName>
-              <type>guidancer.abstract.Widget</type>
+              <type/>
             </overriddenNames>
           </usedTestcase>
         </teststep>
@@ -3670,7 +3670,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a4930022</originalName>
               <newName>5cfc28158ced441d9ed4ef65ab7aaf9f</newName>
-              <type>guidancer.abstract.Widget</type>
+              <type/>
             </overriddenNames>
           </usedTestcase>
         </teststep>
@@ -3748,7 +3748,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a4930022</originalName>
               <newName>906e1337694a483c86aa4f875dd09694</newName>
-              <type>guidancer.abstract.Widget</type>
+              <type/>
             </overriddenNames>
           </usedTestcase>
         </teststep>
@@ -3767,7 +3767,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a4930022</originalName>
               <newName>551bf6b38cfa48a8bfbb82142a442726</newName>
-              <type>guidancer.abstract.Widget</type>
+              <type/>
             </overriddenNames>
           </usedTestcase>
         </teststep>
@@ -3842,7 +3842,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a4940023</originalName>
               <newName>8cd0ae5ba96a431e89a7854ad02fe5d2</newName>
-              <type>guidancer.abstract.TextInputSupport</type>
+              <type/>
             </overriddenNames>
           </usedTestcase>
         </teststep>
@@ -3886,7 +3886,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a4960027</originalName>
               <newName>8cd0ae5ba96a431e89a7854ad02fe5d2</newName>
-              <type>guidancer.concrete.ComboBox</type>
+              <type/>
             </overriddenNames>
           </usedTestcase>
         </teststep>
@@ -3954,7 +3954,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a4940023</originalName>
               <newName>f267cdf8942c4044a3fee07878c778dd</newName>
-              <type>guidancer.abstract.TextInputSupport</type>
+              <type/>
             </overriddenNames>
           </usedTestcase>
         </teststep>
@@ -3984,7 +3984,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a4940023</originalName>
               <newName>a6f5680e23a2498689324fdb1198f232</newName>
-              <type>guidancer.abstract.TextInputSupport</type>
+              <type/>
             </overriddenNames>
           </usedTestcase>
         </teststep>
@@ -4014,7 +4014,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a4940023</originalName>
               <newName>3f7097f8332b4f3f993ae1f50e4af09c</newName>
-              <type>guidancer.abstract.TextInputSupport</type>
+              <type/>
             </overriddenNames>
           </usedTestcase>
         </teststep>
@@ -4033,7 +4033,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a4930022</originalName>
               <newName>1bcba911cce34e0da829ade3d9bd1bfd</newName>
-              <type>guidancer.abstract.Widget</type>
+              <type/>
             </overriddenNames>
           </usedTestcase>
         </teststep>
@@ -4194,7 +4194,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a4930022</originalName>
               <newName>906e1337694a483c86aa4f875dd09694</newName>
-              <type>guidancer.abstract.Widget</type>
+              <type/>
             </overriddenNames>
           </usedTestcase>
         </teststep>
@@ -4383,7 +4383,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a4930022</originalName>
               <newName>8b7b3537f3e048d3b28300465ac39104</newName>
-              <type>guidancer.abstract.Widget</type>
+              <type/>
             </overriddenNames>
           </usedTestcase>
         </teststep>
@@ -4402,7 +4402,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a4930022</originalName>
               <newName>e01079a981ae4e3b810c92fec750cebd</newName>
-              <type>guidancer.abstract.Widget</type>
+              <type/>
             </overriddenNames>
           </usedTestcase>
         </teststep>
@@ -4463,7 +4463,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a497002b</originalName>
               <newName>4de1ed38a61b49739f86d058b44ad073</newName>
-              <type>guidancer.concrete.TabbedPane</type>
+              <type/>
             </overriddenNames>
           </usedTestcase>
         </teststep>
@@ -4528,7 +4528,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a497002c</originalName>
               <newName>37eb35b3b4e84d1d8f12e4b21c22ffea</newName>
-              <type>guidancer.concrete.Tree</type>
+              <type/>
             </overriddenNames>
           </usedTestcase>
         </teststep>
@@ -4586,7 +4586,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a4930022</originalName>
               <newName>8b7b3537f3e048d3b28300465ac39104</newName>
-              <type>guidancer.abstract.Widget</type>
+              <type/>
             </overriddenNames>
           </usedTestcase>
         </teststep>
@@ -4682,7 +4682,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a497002c</originalName>
               <newName>f75c1b6c5562432ab3f1368881079133</newName>
-              <type>guidancer.concrete.Tree</type>
+              <type/>
             </overriddenNames>
           </usedTestcase>
         </teststep>
@@ -4771,7 +4771,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a497002c</originalName>
               <newName>f75c1b6c5562432ab3f1368881079133</newName>
-              <type>guidancer.concrete.Tree</type>
+              <type/>
             </overriddenNames>
           </usedTestcase>
         </teststep>
@@ -4853,7 +4853,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a4930022</originalName>
               <newName>c63fad1cb9c04c9e8e90899df7e0e522</newName>
-              <type>guidancer.abstract.Widget</type>
+              <type/>
             </overriddenNames>
           </usedTestcase>
         </teststep>
@@ -4994,7 +4994,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a497002c</originalName>
               <newName>2034e601cb864d138f1da83d152c0d01</newName>
-              <type>guidancer.concrete.Tree</type>
+              <type/>
             </overriddenNames>
           </usedTestcase>
         </teststep>
@@ -5013,7 +5013,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a4930022</originalName>
               <newName>9b4a4519a70e403892bc4506df6c178f</newName>
-              <type>guidancer.abstract.Widget</type>
+              <type/>
             </overriddenNames>
           </usedTestcase>
         </teststep>
@@ -5088,7 +5088,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a4950026</originalName>
               <newName>8f769cc78cf44713afbae47b9f9ce12f</newName>
-              <type>guidancer.abstract.Widget</type>
+              <type/>
             </overriddenNames>
           </usedTestcase>
         </teststep>
@@ -5107,7 +5107,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a4930022</originalName>
               <newName>0e9d317e20ef46c790407c8744ec937a</newName>
-              <type>guidancer.abstract.Widget</type>
+              <type/>
             </overriddenNames>
           </usedTestcase>
         </teststep>
@@ -5185,12 +5185,6 @@
                     <value>B1</value>
                   </data>
                 </data>
-                <data columnCount="9">
-                  <data>
-                    <language>de_DE</language>
-                    <value>B</value>
-                  </data>
-                </data>
               </row>
               <row rowCount="2">
                 <data columnCount="1">
@@ -5241,12 +5235,6 @@
                     <value>C2</value>
                   </data>
                 </data>
-                <data columnCount="9">
-                  <data>
-                    <language>de_DE</language>
-                    <value>C</value>
-                  </data>
-                </data>
               </row>
               <uniqueIds>fc68d396490541ef95c591706b7200d3</uniqueIds>
               <uniqueIds>aadc8cc6b65843708777a07f617ee624</uniqueIds>
@@ -5256,7 +5244,6 @@
               <uniqueIds>e9f751075b394aaa8436208bbb02f836</uniqueIds>
               <uniqueIds>1e3cd578077844d58e64a6b6d32a2bfa</uniqueIds>
               <uniqueIds>849da5087ca5445eb9291b290f6a469f</uniqueIds>
-              <uniqueIds>a49d4deb2fb44eb4adfc23c67202af1c</uniqueIds>
             </testdata>
             <datafile xsi:nil="true"/>
             <testcaseGuid>fc79015d9c4644bcbf2dc231f2d0813f</testcaseGuid>
@@ -5312,11 +5299,6 @@
           <type>java.lang.String</type>
           <uniqueId>849da5087ca5445eb9291b290f6a469f</uniqueId>
         </parameterDescription>
-        <parameterDescription>
-          <name>K_TIKOMP</name>
-          <type>java.lang.String</type>
-          <uniqueId>a49d4deb2fb44eb4adfc23c67202af1c</uniqueId>
-        </parameterDescription>
         <testdata>
           <uniqueIds>fc68d396490541ef95c591706b7200d3</uniqueIds>
           <uniqueIds>aadc8cc6b65843708777a07f617ee624</uniqueIds>
@@ -5326,7 +5308,6 @@
           <uniqueIds>e9f751075b394aaa8436208bbb02f836</uniqueIds>
           <uniqueIds>1e3cd578077844d58e64a6b6d32a2bfa</uniqueIds>
           <uniqueIds>849da5087ca5445eb9291b290f6a469f</uniqueIds>
-          <uniqueIds>a49d4deb2fb44eb4adfc23c67202af1c</uniqueIds>
         </testdata>
         <datafile xsi:nil="true"/>
         <teststep>
@@ -5433,15 +5414,8 @@
                     <value>=849da5087ca5445eb9291b290f6a469f</value>
                   </data>
                 </data>
-                <data columnCount="2">
-                  <data>
-                    <language>de_DE</language>
-                    <value>=a49d4deb2fb44eb4adfc23c67202af1c</value>
-                  </data>
-                </data>
               </row>
               <uniqueIds>61d46ccd5a0c4faf8d74c0caa2f32e32</uniqueIds>
-              <uniqueIds>e4b8596299e24f67bfa20c969cb665de</uniqueIds>
             </testdata>
             <datafile xsi:nil="true"/>
             <testcaseGuid>b319c9cee438449f816eea8dd4516e3e</testcaseGuid>
@@ -5661,7 +5635,7 @@
               <propagated>false</propagated>
               <originalName>8ab6b08d1a4d08f3011a4d09a4930022</originalName>
               <newName>5cfc28158ced441d9ed4ef65ab7aaf9f</newName>
-              <type>guidancer.abstract.Widget</type>
+              <type/>
             </overriddenNames>
           </usedTestcase>
           <eventHandler>
@@ -29598,6 +29572,814 @@
         <attribute>
           <key>testsuiteStartTime</key>
           <value>2012-10-28 11:48:54.912</value>
+          <type>java.util.Date</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteStatus</key>
+          <value>5</value>
+          <type>int</type>
+        </attribute>
+      </testresultSummary>
+      <testresultSummary>
+        <attribute>
+          <key>autAgentName</key>
+          <value>localhost</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autCmdParameter</key>
+          <value>-clean -vmargs -Dch.elexis.username=Administrator -Dch.elexis.password=admin</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autConfigName</key>
+          <value>elexis-linux</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autHostname</key>
+          <value>localhost</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autId</key>
+          <value>elexis_linux</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autName</key>
+          <value>elexis</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autOS</key>
+          <value>Linux</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autToolkit</key>
+          <value>com.bredexsw.guidancer.RcpToolkitPlugin</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>commentDetail</key>
+          <value xsi:nil="true"/>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>commentTitle</key>
+          <value xsi:nil="true"/>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalAutConfigGuid</key>
+          <value>7ae12ccbd18c4654b97756c3937e7f3c</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalAutGuid</key>
+          <value>3db3e6ec8b0e4c24b048be351c5793a9</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalGuid</key>
+          <value>4b80e9c6e4544d8fae500c3561f46904</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalMonitoringId</key>
+          <value>none selected</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalProjectGuid</key>
+          <value>6e07945f6d13440db9b29f26e84e7309</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalProjectID</key>
+          <value>6399</value>
+          <type>java.lang.Long</type>
+        </attribute>
+        <attribute>
+          <key>internalTestJobGuid</key>
+          <value xsi:nil="true"/>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalTestsuiteGuid</key>
+          <value>9db456eb5e5f4f0ea08ec5180cc232aa</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>monitoringValue</key>
+          <value xsi:nil="true"/>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>monitoringValueType</key>
+          <value>none</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>projectMajorVersion</key>
+          <value>1</value>
+          <type>int</type>
+        </attribute>
+        <attribute>
+          <key>projectMinorVersion</key>
+          <value>0</value>
+          <type>int</type>
+        </attribute>
+        <attribute>
+          <key>projectName</key>
+          <value>ElexisDemo 1.0</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>reportWritten</key>
+          <value>false</value>
+          <type>boolean</type>
+        </attribute>
+        <attribute>
+          <key>statusString</key>
+          <value>Error in Children</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>testJobName</key>
+          <value xsi:nil="true"/>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>testJobStartTime</key>
+          <value xsi:nil="true"/>
+          <type>java.util.Date</type>
+        </attribute>
+        <attribute>
+          <key>testRunState</key>
+          <value>FAILED</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteDate</key>
+          <value>2012-10-29 01:28:00.462</value>
+          <type>java.util.Date</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteDuration</key>
+          <value>00:00:11</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteEndTime</key>
+          <value>2012-10-29 01:28:00.462</value>
+          <type>java.util.Date</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteEventHandlerTeststeps</key>
+          <value>0</value>
+          <type>int</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteExecutedTeststeps</key>
+          <value>40</value>
+          <type>int</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteExpectedTeststeps</key>
+          <value>220</value>
+          <type>int</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteFailedTeststeps</key>
+          <value>1</value>
+          <type>int</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteLanguage</key>
+          <value>German (Germany)</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteName</key>
+          <value>hilotec</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteRelevant</key>
+          <value>true</value>
+          <type>boolean</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteStartTime</key>
+          <value>2012-10-29 01:27:48.798</value>
+          <type>java.util.Date</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteStatus</key>
+          <value>5</value>
+          <type>int</type>
+        </attribute>
+      </testresultSummary>
+      <testresultSummary>
+        <attribute>
+          <key>autAgentName</key>
+          <value>localhost</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autCmdParameter</key>
+          <value>-clean -vmargs -Dch.elexis.username=Administrator -Dch.elexis.password=admin</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autConfigName</key>
+          <value>elexis-linux</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autHostname</key>
+          <value>localhost</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autId</key>
+          <value>elexis_linux</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autName</key>
+          <value>elexis</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autOS</key>
+          <value>Linux</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autToolkit</key>
+          <value>com.bredexsw.guidancer.RcpToolkitPlugin</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>commentDetail</key>
+          <value xsi:nil="true"/>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>commentTitle</key>
+          <value xsi:nil="true"/>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalAutConfigGuid</key>
+          <value>7ae12ccbd18c4654b97756c3937e7f3c</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalAutGuid</key>
+          <value>3db3e6ec8b0e4c24b048be351c5793a9</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalGuid</key>
+          <value>43c556e9f08041cdbf6eef691dad51a1</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalMonitoringId</key>
+          <value>none selected</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalProjectGuid</key>
+          <value>6e07945f6d13440db9b29f26e84e7309</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalProjectID</key>
+          <value>6399</value>
+          <type>java.lang.Long</type>
+        </attribute>
+        <attribute>
+          <key>internalTestJobGuid</key>
+          <value xsi:nil="true"/>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalTestsuiteGuid</key>
+          <value>9db456eb5e5f4f0ea08ec5180cc232aa</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>monitoringValue</key>
+          <value xsi:nil="true"/>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>monitoringValueType</key>
+          <value>none</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>projectMajorVersion</key>
+          <value>1</value>
+          <type>int</type>
+        </attribute>
+        <attribute>
+          <key>projectMinorVersion</key>
+          <value>0</value>
+          <type>int</type>
+        </attribute>
+        <attribute>
+          <key>projectName</key>
+          <value>ElexisDemo 1.0</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>reportWritten</key>
+          <value>false</value>
+          <type>boolean</type>
+        </attribute>
+        <attribute>
+          <key>statusString</key>
+          <value>Error in Children</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>testJobName</key>
+          <value xsi:nil="true"/>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>testJobStartTime</key>
+          <value xsi:nil="true"/>
+          <type>java.util.Date</type>
+        </attribute>
+        <attribute>
+          <key>testRunState</key>
+          <value>FAILED</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteDate</key>
+          <value>2012-10-29 01:46:26.539</value>
+          <type>java.util.Date</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteDuration</key>
+          <value>00:01:15</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteEndTime</key>
+          <value>2012-10-29 01:46:26.539</value>
+          <type>java.util.Date</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteEventHandlerTeststeps</key>
+          <value>30</value>
+          <type>int</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteExecutedTeststeps</key>
+          <value>250</value>
+          <type>int</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteExpectedTeststeps</key>
+          <value>220</value>
+          <type>int</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteFailedTeststeps</key>
+          <value>10</value>
+          <type>int</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteLanguage</key>
+          <value>German (Germany)</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteName</key>
+          <value>hilotec</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteRelevant</key>
+          <value>true</value>
+          <type>boolean</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteStartTime</key>
+          <value>2012-10-29 01:45:10.650</value>
+          <type>java.util.Date</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteStatus</key>
+          <value>5</value>
+          <type>int</type>
+        </attribute>
+      </testresultSummary>
+      <testresultSummary>
+        <attribute>
+          <key>autAgentName</key>
+          <value>localhost</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autCmdParameter</key>
+          <value>-clean -vmargs -Dch.elexis.username=Administrator -Dch.elexis.password=admin</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autConfigName</key>
+          <value>elexis-linux</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autHostname</key>
+          <value>localhost</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autId</key>
+          <value>elexis_linux</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autName</key>
+          <value>elexis</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autOS</key>
+          <value>Linux</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autToolkit</key>
+          <value>com.bredexsw.guidancer.RcpToolkitPlugin</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>commentDetail</key>
+          <value xsi:nil="true"/>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>commentTitle</key>
+          <value xsi:nil="true"/>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalAutConfigGuid</key>
+          <value>7ae12ccbd18c4654b97756c3937e7f3c</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalAutGuid</key>
+          <value>3db3e6ec8b0e4c24b048be351c5793a9</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalGuid</key>
+          <value>378b2fc199394ddea120ff2013101c6c</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalMonitoringId</key>
+          <value>none selected</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalProjectGuid</key>
+          <value>6e07945f6d13440db9b29f26e84e7309</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalProjectID</key>
+          <value>6399</value>
+          <type>java.lang.Long</type>
+        </attribute>
+        <attribute>
+          <key>internalTestJobGuid</key>
+          <value xsi:nil="true"/>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalTestsuiteGuid</key>
+          <value>9db456eb5e5f4f0ea08ec5180cc232aa</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>monitoringValue</key>
+          <value xsi:nil="true"/>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>monitoringValueType</key>
+          <value>none</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>projectMajorVersion</key>
+          <value>1</value>
+          <type>int</type>
+        </attribute>
+        <attribute>
+          <key>projectMinorVersion</key>
+          <value>0</value>
+          <type>int</type>
+        </attribute>
+        <attribute>
+          <key>projectName</key>
+          <value>ElexisDemo 1.0</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>reportWritten</key>
+          <value>false</value>
+          <type>boolean</type>
+        </attribute>
+        <attribute>
+          <key>statusString</key>
+          <value>Error in Children</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>testJobName</key>
+          <value xsi:nil="true"/>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>testJobStartTime</key>
+          <value xsi:nil="true"/>
+          <type>java.util.Date</type>
+        </attribute>
+        <attribute>
+          <key>testRunState</key>
+          <value>FAILED</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteDate</key>
+          <value>2012-10-29 02:01:38.56</value>
+          <type>java.util.Date</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteDuration</key>
+          <value>00:01:12</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteEndTime</key>
+          <value>2012-10-29 02:01:38.56</value>
+          <type>java.util.Date</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteEventHandlerTeststeps</key>
+          <value>164</value>
+          <type>int</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteExecutedTeststeps</key>
+          <value>314</value>
+          <type>int</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteExpectedTeststeps</key>
+          <value>220</value>
+          <type>int</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteFailedTeststeps</key>
+          <value>5</value>
+          <type>int</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteLanguage</key>
+          <value>German (Germany)</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteName</key>
+          <value>hilotec</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteRelevant</key>
+          <value>true</value>
+          <type>boolean</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteStartTime</key>
+          <value>2012-10-29 02:00:25.882</value>
+          <type>java.util.Date</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteStatus</key>
+          <value>5</value>
+          <type>int</type>
+        </attribute>
+      </testresultSummary>
+      <testresultSummary>
+        <attribute>
+          <key>autAgentName</key>
+          <value>localhost</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autCmdParameter</key>
+          <value>-clean -vmargs -Dch.elexis.username=Administrator -Dch.elexis.password=admin</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autConfigName</key>
+          <value>elexis-linux</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autHostname</key>
+          <value>localhost</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autId</key>
+          <value>elexis_linux</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autName</key>
+          <value>elexis</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autOS</key>
+          <value>Linux</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>autToolkit</key>
+          <value>com.bredexsw.guidancer.RcpToolkitPlugin</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>commentDetail</key>
+          <value xsi:nil="true"/>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>commentTitle</key>
+          <value xsi:nil="true"/>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalAutConfigGuid</key>
+          <value>7ae12ccbd18c4654b97756c3937e7f3c</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalAutGuid</key>
+          <value>3db3e6ec8b0e4c24b048be351c5793a9</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalGuid</key>
+          <value>0339631f961640e9a8da5b7ebc3a8002</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalMonitoringId</key>
+          <value>none selected</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalProjectGuid</key>
+          <value>6e07945f6d13440db9b29f26e84e7309</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalProjectID</key>
+          <value>6399</value>
+          <type>java.lang.Long</type>
+        </attribute>
+        <attribute>
+          <key>internalTestJobGuid</key>
+          <value xsi:nil="true"/>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>internalTestsuiteGuid</key>
+          <value>9db456eb5e5f4f0ea08ec5180cc232aa</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>monitoringValue</key>
+          <value xsi:nil="true"/>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>monitoringValueType</key>
+          <value>none</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>projectMajorVersion</key>
+          <value>1</value>
+          <type>int</type>
+        </attribute>
+        <attribute>
+          <key>projectMinorVersion</key>
+          <value>0</value>
+          <type>int</type>
+        </attribute>
+        <attribute>
+          <key>projectName</key>
+          <value>ElexisDemo 1.0</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>reportWritten</key>
+          <value>false</value>
+          <type>boolean</type>
+        </attribute>
+        <attribute>
+          <key>statusString</key>
+          <value>Error in Children</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>testJobName</key>
+          <value xsi:nil="true"/>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>testJobStartTime</key>
+          <value xsi:nil="true"/>
+          <type>java.util.Date</type>
+        </attribute>
+        <attribute>
+          <key>testRunState</key>
+          <value>FAILED</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteDate</key>
+          <value>2012-10-29 02:05:15.311</value>
+          <type>java.util.Date</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteDuration</key>
+          <value>00:00:41</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteEndTime</key>
+          <value>2012-10-29 02:05:15.311</value>
+          <type>java.util.Date</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteEventHandlerTeststeps</key>
+          <value>12</value>
+          <type>int</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteExecutedTeststeps</key>
+          <value>123</value>
+          <type>int</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteExpectedTeststeps</key>
+          <value>220</value>
+          <type>int</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteFailedTeststeps</key>
+          <value>5</value>
+          <type>int</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteLanguage</key>
+          <value>German (Germany)</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteName</key>
+          <value>hilotec</value>
+          <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteRelevant</key>
+          <value>true</value>
+          <type>boolean</type>
+        </attribute>
+        <attribute>
+          <key>testsuiteStartTime</key>
+          <value>2012-10-29 02:04:33.972</value>
           <type>java.util.Date</type>
         </attribute>
         <attribute>
